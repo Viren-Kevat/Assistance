@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.YourApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        <item name="colorOnBackground">@color/onBackground</item>
+        <item name="colorOnSurface">@color/onSurface</item>
+        <!-- Optional: add card and accent colors if needed -->
+        <!-- <item name="cardAccent">@color/cardAccent</item> -->
+        <!-- You can add other Material3 attributes here as needed -->
+    </style>
+</resources>

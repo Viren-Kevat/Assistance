@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#212121</color>         <!-- Deep neutral for primary surfaces -->
+    <color name="secondary">#757575</color>       <!-- Subtle, cool gray for accents -->
+    <color name="background">#F5F5F7</color>      <!-- Slightly off-white for less glare -->
+    <color name="surface">#FFFFFF</color>         <!-- Pure white for cards and surfaces -->
+    <color name="onPrimary">#FFFFFF</color>       <!-- Text/icons on primary -->
+    <color name="onSecondary">#212121</color>     <!-- Text/icons on secondary -->
+    <color name="onBackground">#212121</color>    <!-- Text/icons on background -->
+    <color name="onSurface">#232323</color>       <!-- Slightly softened black for readability -->
+    <color name="cardAccent">#000000</color>      <!-- Subtle card border/accent -->
+    <!-- Subtle card border -->
+</resources>

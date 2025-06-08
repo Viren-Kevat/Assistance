@@ -1,0 +1,30 @@
+/build
+local.properties
+gradle.properties
+apikeys.properties
+secrets.properties
+.gradle/
+.idea/
+build/
+caches/
+# Gradle
+
+wrapper/
+
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Android Studio
+
+*.iml
+# Ignore build and cache directories
+
+daemon/
+
+.kotlin-profile/
+native/
+
+android/
+gradle/
+
+

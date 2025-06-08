@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#16181A</color>      <!-- Deeper dark, less blue than pure black -->
+    <color name="surface">#232526</color>         <!-- Slightly lighter for cards/surfaces -->
+    <color name="primary">#FAFAFA</color>         <!-- High-contrast white for primary elements -->
+    <color name="secondary">#757575</color>       <!-- Neutral gray for accents -->
+    <color name="onPrimary">#16181A</color>       <!-- Ensures contrast on white primary -->
+    <color name="onSecondary">#FAFAFA</color>     <!-- White on gray secondary -->
+    <color name="onBackground">#F5F5F7</color>    <!-- Soft white for text on background -->
+    <color name="onSurface">#E0E0E0</color>       <!-- Slightly muted white for surface text/icons -->
+    <color name="cardAccent">#35373A</color>      <!-- Subtle border/accent for cards -->
+</resources>
