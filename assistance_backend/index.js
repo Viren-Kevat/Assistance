@@ -11,7 +11,7 @@ app.use(cors());
 mongoose.connect(process.env.MONGODB_URI);
 
 const userSchema = new mongoose.Schema({
-  username: String,
+username: { type: String, unique: true }
   password: String,
 });
 const User = mongoose.model("User", userSchema);
